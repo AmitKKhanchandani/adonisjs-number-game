@@ -5,7 +5,7 @@ To see the project:
 - Use ```npm install```
 - Use ```adonis serve```
 
-## This application includes examples of major features of Adonisjs  including:
+## This application includes examples of major features of Adonisjs including:
 
 - Views
 - Routing
