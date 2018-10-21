@@ -1,9 +1,21 @@
-# Adonis Slim App
+# Welcome to Adonisjs Number Game!
 
-The Adonis slim app is the tinest boilerplate to create Adonisjs applications with minimal footprint and you get all the goodies of Adonis IoC container, autoloading, ace commands etc.
+To see the project:
+- Clone/download it
+- Use ```npm install```
+- Use ```adonis serve```
 
-## What's next?
+## This application includes examples of major features of Adonisjs  including:
 
-This project structure can scale as you go, simply execute the `ace` commands to create **Controllers**, **Models**, etc for you. 
+- Views
+- Routing
+- Controllers
+- Binding Controllers
 
-Also make sure to read the [guides](http://dev.adonisjs.com/docs/4.0/installation)
+# License
+
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+The underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+© [Amit K Khanchandani](http://www.amitk.co.in)
